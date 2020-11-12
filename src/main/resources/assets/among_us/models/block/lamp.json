@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "among_us:blocks/lamp_bottom",
+    "up": "among_us:blocks/lamp",
+    "north": "among_us:blocks/lamp_side",
+    "east": "among_us:blocks/lamp_side",
+    "south": "among_us:blocks/lamp_side",
+    "west": "among_us:blocks/lamp_side",
+    "particle": "among_us:blocks/lamp_bottom"
+  }
+}
