@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "emergency_meeting",
+        "1": "e8850a26cdef4cb4352801a4f9de7445"
+      },
+      "name": "default"
+    }
+  }
+}

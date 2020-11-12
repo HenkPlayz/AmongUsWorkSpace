@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "among_us:block/emergency_button"
+    },
+    "facing=east": {
+      "model": "among_us:block/emergency_button",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "among_us:block/emergency_button",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "among_us:block/emergency_button",
+      "y": 270
+    }
+  }
+}

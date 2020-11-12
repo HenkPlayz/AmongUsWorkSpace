@@ -1,0 +1,9 @@
+{
+  "parent": "among_us:custom/emercency.button",
+  "textures": {
+    "all": "among_us:blocks/e8850a26cdef4cb4352801a4f9de7445",
+    "particle": "among_us:blocks/e8850a26cdef4cb4352801a4f9de7445",
+    "0": "among_us:blocks/emergency_meeting",
+    "1": "among_us:blocks/e8850a26cdef4cb4352801a4f9de7445"
+  }
+}

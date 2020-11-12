@@ -1,0 +1,86 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "EmergencyButton",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emergency_button"
+    },
+    {
+      "name": "CyanSuit",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_suit",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EmergencyButtonUpdateTick",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emergency_button_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.among_us.cyan_suit_helmet": "Cyan Suit Helmet",
+      "block.among_us.emergency_button": "Emergency Button",
+      "item.among_us.cyan_suit_boots": "Cyan Suit Boots",
+      "item.among_us.cyan_suit_chestplate": "Cyan Suit Body",
+      "item.among_us.cyan_suit_leggings": "Cyan Suit Leggings"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "among_us",
+    "modName": "Among US",
+    "version": "1.0.0",
+    "author": "User, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.amongus",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
