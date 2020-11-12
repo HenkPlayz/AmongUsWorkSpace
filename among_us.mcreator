@@ -64,13 +64,13 @@
       "registry_name": "lamp"
     },
     {
-      "name": "Henksmrdi",
-      "type": "tab",
+      "name": "Boobydibap",
+      "type": "musicdisc",
       "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "henksmrdi"
+      "registry_name": "boobydibap"
     }
   ],
   "variable_elements": [],
@@ -78,8 +78,9 @@
   "language_map": {
     "en_us": {
       "item.among_us.cyan_suit_helmet": "Cyan Suit Helmet",
+      "item.among_us.boobydibap.desc": "sss",
       "block.among_us.emergency_button": "Emergency Button",
-      "itemGroup.tabhenksmrdi": "Henksmrdi",
+      "item.among_us.boobydibap": "Boobydibap",
       "item.among_us.cyan_suit_boots": "Cyan Suit Boots",
       "block.among_us.lamp": "Lamp",
       "item.among_us.cyan_suit_chestplate": "Cyan Suit Body",

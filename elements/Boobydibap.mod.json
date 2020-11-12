@@ -1,0 +1,19 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "cyan_suit_head",
+    "name": "Boobydibap",
+    "description": "sss",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "block.anvil.fall"
+    },
+    "specialInfo": [
+      "sss"
+    ],
+    "hasGlow": false
+  }
+}
