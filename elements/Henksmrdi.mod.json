@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "Henksmrdi",
+    "icon": {
+      "value": "Blocks.DIAMOND_BLOCK"
+    },
+    "showSearch": true
+  }
+}
